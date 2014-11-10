@@ -13,5 +13,6 @@ minil.toml
 t/00_compile.t
 t/01_simple.t
 t/02_server.t
+t/03_memleak.t
 META.yml
 MANIFEST
