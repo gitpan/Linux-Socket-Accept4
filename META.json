@@ -4,7 +4,7 @@
       "fb7ee91d9b089b78786fbb>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v2.2.0",
+   "generated_by" : "Minilla/v2.2.1",
    "license" : [
       "perl_5"
    ],
@@ -58,7 +58,7 @@
    "provides" : {
       "Linux::Socket::Accept4" : {
          "file" : "lib/Linux/Socket/Accept4.pm",
-         "version" : "0.03"
+         "version" : "0.04"
       }
    },
    "release_status" : "stable",
@@ -72,10 +72,10 @@
          "web" : "https://github.com/tokuhirom/Linux-Socket-Accept4"
       }
    },
-   "version" : "0.03",
+   "version" : "0.04",
    "x_contributors" : [
-      "Syohei YOSHIDA <syohex@gmail.com>",
       "Masahiro Nagano <kazeburo@gmail.com>",
-      "Tokuhiro Matsuno <tokuhirom@gmail.com>"
+      "Tokuhiro Matsuno <tokuhirom@gmail.com>",
+      "Syohei YOSHIDA <syohex@gmail.com>"
    ]
 }
